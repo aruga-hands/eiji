@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+# ここを…！　変える…！　　git用に…！！
+
 nitiwa_flg="false"
 banwa_flg="false"
 fox_flg="false"
