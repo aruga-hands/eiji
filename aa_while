@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# git用にここを変更
-
 nitiwa_flg="false"
 banwa_flg="false"
 fox_flg="false"
