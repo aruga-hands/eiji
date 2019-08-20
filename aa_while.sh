@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# さっき書いたんだけど！testブランチにてファイル更新
 # git用にここを変更
 
 nitiwa_flg="false"
