@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# masterブランチでここを追加しています
 # git用にここを変更
 
 nitiwa_flg="false"
